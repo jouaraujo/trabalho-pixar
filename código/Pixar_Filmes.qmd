@@ -20,7 +20,6 @@ output:
 O banco de dados que escolhemos analisar faz parte de um pacote chamado "dados", se trata de um pacote que traduz bases de dados de outros pacotes. E a database que analisamos traz os números referentes a bilheteria de alguns filmes da pixar.
 
 # Carregamento de pacotes
-
 Os pacotes que iremos utilizar serão: 
 
 ```{r carregamento dos pacotes, message = FALSE, warning=FALSE}
